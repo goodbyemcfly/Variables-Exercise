@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\repos\\Variables-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|c:\\users\\holli\\onedrive\\desktop\\repos\\variables-exercise\\variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|solutionrelative:variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\Program.cs",
+              "RelativeDocumentMoniker": "VariablesExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\Program.cs",
+              "RelativeToolTip": "VariablesExercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:58:47.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
